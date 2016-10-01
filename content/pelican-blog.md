@@ -104,7 +104,7 @@ It means that the linters virtualenv is now unlinked (again) from the "functiona
 With the fact that python can easily be found on most OSes, I think this workflow is quite simple to follow.
 
 [tox]:https://tox.readthedocs.io/en/latest/
-[tox.ini]:https://github.com/evrardjp/evrardjp.github.io-sources/blob/master/tox.ini
+[tox.ini]:https://github.com/evrardjp/evrardjp.github.io-sources/blob/9ae74fd7b532ca33c2aa14cbcd79a4d704bd802a/tox.ini
 [twisted]:https://twistedmatrix.com/trac/
 
 *Photo credit: [MDreibelbis](https://www.flickr.com/photos/68704638@N04/26835201760)*

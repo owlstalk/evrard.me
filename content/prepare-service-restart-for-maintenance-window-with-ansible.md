@@ -90,6 +90,6 @@ Avoiding/forcing *service restart* is respectively:
 My preferred method is the method 4, because it's far more readable, it avoids variable crawl, the tags are consistent, and it's understandable from a "non ansible" point of view. As I said before, the most elegant method would be to **NOT** do this at all, and make sure the system is always consistent after a run. Don't forget that some services don't require a restart to change their live status. Another signal could be used to take the change into consideration. This signal should be then used in the ansible handler.
 
 [ansible-pocs]: https://github.com/evrardjp/ansible-pocs
-[ansible-pocs-service-restart]: https://github.com/evrardjp/ansible-pocs/tree/master/roles/conditionalhandler
+[ansible-pocs-service-restart]: https://github.com/evrardjp/ansible-pocs/blob/de0ebf6945ed3df4b26e0c707fde5eb7ef1f86ed/roles/conditionalhandler/tasks/main.yml
 
 *Photo credit: [Maker-9070](http://www.flickr.com/photos/135666453@N07/25128639121)*
