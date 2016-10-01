@@ -22,11 +22,11 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/')
+         ('Jinja2', 'http://jinja.pocoo.org/'))
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+          ('Another social link', '#'))
 
 # Social widget
 USERNAME = 'evrardjp'
