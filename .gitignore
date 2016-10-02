@@ -5,3 +5,4 @@ fabfile.py
 /output
 *.pyc
 publishconf.py
+.DS_Store
