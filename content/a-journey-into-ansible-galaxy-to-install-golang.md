@@ -38,14 +38,19 @@ I wonder how much people tried a terrible role because the best role was not sho
 
 Let's see what we have now:
 
+<a href="https://raw.githubusercontent.com/evrardjp/evrard.me/2d154fbf31f9666e37b578a5630394a824c08b66/content/images/ansible-galaxy-golang-roles.png">
 ![this seems a better listing]({filename}/images/ansible-galaxy-golang-roles.png)
+</a>
 
 Oh, that's better, 6k downloads! This is where my focus will be.
 
 But before that, should I try once again? Do I really have only 10 records? I suppose I have at least 11 of them, since a new one showed up.
 Let's try that search again.
 
+<a href="https://raw.githubusercontent.com/evrardjp/evrard.me/2d154fbf31f9666e37b578a5630394a824c08b66/content/images/ansible-galaxy-golang-24-roles.png">
 ![There are 24 roles listed]({filename}/images/ansible-galaxy-golang-24-roles.png)
+</a>
+
 Finally, a proper list! So, I can now (after multiple tentatives) confirm there are 24 roles listed in the galaxy for golang.
 
 On another note, did you notice that the role with the most downloads did not appear in the first PAGE of results when sorted by relevance?
