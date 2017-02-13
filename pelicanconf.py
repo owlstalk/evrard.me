@@ -5,8 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = u'Jean-Philippe Evrard'
 COPYRIGHT = AUTHOR
 SITENAME = u'dd if=/dev/brain of=/var/log/this.site'
-SITEURL = 'http://netlify.skydrive.pk'
-GOOGLE_ANALYTICS = ""
+SITEURL = 'https://evrard.me'
+GOOGLE_ANALYTICS = "UA-79230364-1"
 
 PATH = 'content'
 
